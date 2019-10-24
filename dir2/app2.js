@@ -1,2 +1,2 @@
 console.log('dir2')
-console.log('222')
+// console.log('222')
